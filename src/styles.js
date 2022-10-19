@@ -1,5 +1,3 @@
-// ejemplito de como usar styled-components
-// hay que importar styled-components
 import styled from 'styled-components';
 
 export const Title = styled.h1`
