@@ -12,7 +12,9 @@ function App() {
         Hello world!!!
       </h1>
 
-      <Typography variant="h1">h1</Typography>
+      <Typography variant="h1" class="text-yellow-500">
+        h1
+      </Typography>
       <Typography variant="h2">h2</Typography>
       <Typography variant="h3">h3</Typography>
       <Typography variant="h4">h4</Typography>
