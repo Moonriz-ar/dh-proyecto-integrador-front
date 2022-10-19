@@ -5,10 +5,6 @@ const theme = {
     secondaryLight: '#545776',
     white: '#F3F1ED',
   },
-  fonts: {
-    material: 'Roboto',
-    default: 'Montserrat',
-  },
 };
 
 export default theme;
